@@ -1,0 +1,50 @@
+.itemsstyling {
+  font-size: 60px;
+  color: #ff0b37;
+  margin: 5px;
+}
+.textstyling {
+  color: #212121;
+  margin: 10px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 550;
+}
+.listitemsstylings {
+  margin: 5px;
+  font-size: 60px;
+}
+.headingstylecss {
+  font-size: 20px;
+}
+.searchbarcontainer {
+  background-color: #606060;
+  width: 580px;
+  height: 30px;
+  border-width: 2px;
+  border-color: #616e7c;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 25px;
+}
+.inputsearchstyling {
+  width: 540px;
+  background-color: #f1f5f9;
+  height: 30px;
+}
+.imagesearchstyling {
+  background-color: transparent;
+  padding: 5px;
+  font-size: 30px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.searchbutton {
+  background-color: transparent;
+  border-width: 0px;
+}

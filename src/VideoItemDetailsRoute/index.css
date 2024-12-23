@@ -1,0 +1,12 @@
+.loader-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.Contdisply {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

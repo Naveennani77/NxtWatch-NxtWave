@@ -1,0 +1,29 @@
+.reacticonstyle {
+  font-size: 40px;
+  margin-right: 15px;
+}
+.reacticonstyle2 {
+  width: 40px;
+  margin-right: 15px;
+}
+.logoutbuttonstyle {
+  background-color: #f9f9f9;
+  border-color: #00306e;
+  color: #00306e;
+  border-width: 2px;
+  font-family: 'Roboto';
+  border-style: solid;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-right: 15px;
+}
+.popupcontentcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ebebeb;
+  width: 400px;
+  height: 200px;
+  padding-top: 20px;
+}
